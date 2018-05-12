@@ -1,0 +1,36 @@
+_repo: The-White-Desert_20155
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fischer, Anton Otto
+    birthdate: 1882
+    deathdate: 1962
+    gutenberg_agent_id: '8526'
+    url: http://www.gutenberg.org/2009/agents/8526
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, Courtney Ryley
+    birthdate: 1886
+    deathdate: 1940
+    gutenberg_agent_id: '9081'
+    url: http://www.gutenberg.org/2009/agents/9081
+    wikipedia: http://en.wikipedia.org/wiki/Courtney_Ryley_Cooper
+description: ''
+gutenberg_issued: '2006-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20155'
+  lccn: '22002310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lumbering -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Railroad stories'
+title: The White Desert
+url: http://www.gutenberg.org/ebooks/20155
