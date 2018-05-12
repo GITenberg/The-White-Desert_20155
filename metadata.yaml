@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9081
     wikipedia: http://en.wikipedia.org/wiki/Courtney_Ryley_Cooper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20155#The-White-Desert
 gutenberg_issued: '2006-12-21'
 gutenberg_type: Text
 identifiers:
